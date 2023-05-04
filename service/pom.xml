@@ -21,6 +21,16 @@
             <artifactId>model</artifactId>
             <version>1.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.rdh</groupId>
+            <artifactId>service-util</artifactId>
+            <version>1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.rdh</groupId>
+            <artifactId>common-util</artifactId>
+            <version>1.0</version>
+        </dependency>
         <!--web-->
         <dependency>
             <groupId>org.springframework.boot</groupId>

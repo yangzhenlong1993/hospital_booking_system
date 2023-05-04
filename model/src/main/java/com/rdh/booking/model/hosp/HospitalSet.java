@@ -42,6 +42,7 @@ public class HospitalSet extends BaseEntity {
 	@TableField("contacts_name")
 	private String contactsName;
 
+	//TODO JR303 Validation
 	@ApiModelProperty(value = "联系人手机")
 	@TableField("contacts_phone")
 	private String contactsPhone;
