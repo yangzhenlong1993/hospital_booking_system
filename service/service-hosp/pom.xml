@@ -7,7 +7,7 @@
         <version>1.0</version>
     </parent>
 
-    <artifactId>service_hosp</artifactId>
+    <artifactId>service-hosp</artifactId>
     <packaging>jar</packaging>
 
     <name>service_hosp</name>

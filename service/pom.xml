@@ -10,8 +10,9 @@
     <artifactId>service</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>service_user</module>
-        <module>service_hosp</module>
+        <module>service-user</module>
+        <module>service-hosp</module>
+        <module>service-data</module>
     </modules>
     <version>1.0</version>
 
